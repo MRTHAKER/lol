@@ -72,7 +72,7 @@ TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_KERNEL_CROSS_COMPILE_PREFIX := aarch64-linux-android-
 TARGET_KERNEL_CONFIG := lineageos_defconfig
-TARGET_KERNEL_SOURCE := kernel/zuk/msm8996
+TARGET_KERNEL_SOURCE := kernel/zuk/z2_plus
 
 # QCOM hardware
 BOARD_USES_QCOM_HARDWARE := true
